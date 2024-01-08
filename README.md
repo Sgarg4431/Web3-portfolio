@@ -14,7 +14,7 @@ Decentralize Portfolio is a decentralized application (DApp) built on the Ethere
 ### To run the Decentralize Portfolio final project locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/kshitijofficial/Decentralize-Portfolio.git
+git clone 
 2. Navigate to the finalCode directory:
 cd Decentralize-Portfolio/finalCode
 3. Navigate to the client directory:
