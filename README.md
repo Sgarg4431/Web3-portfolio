@@ -22,8 +22,8 @@ cd client
 4. Install the required dependencies:\
 npm install
 5. To run the application:
-
 npm run dev
+
 6. Open your browser and visit http://localhost:5173 to access the Decentralize Portfolio final application.
 
 
