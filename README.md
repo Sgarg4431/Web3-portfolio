@@ -13,16 +13,13 @@ Metamask Integration: Users can connect their Ethereum wallets using Metamask to
 ### To run the Decentralize Portfolio final project locally, follow these steps:
 
 1. Clone the repository:
-
 git clone https://github.com/kshitijofficial/Decentralize-Portfolio.git
 2. Navigate to the finalCode directory:
-
 cd Decentralize-Portfolio/finalCode
 3. Navigate to the client directory:
-
 cd client
-4. Install the required dependencies:
 
+4. Install the required dependencies:\
 npm install
 5. To run the application:
 
