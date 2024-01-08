@@ -28,12 +28,3 @@ npm run dev
 6. Open your browser and visit http://localhost:5173 to access the Decentralize Portfolio final application.
 
 
-# Acknowledgements
-Decentralize Portfolio is built using the following technologies:
-
-Solidity - The smart contract programming language for Ethereum.
-React - A JavaScript library for building user interfaces.
-Hardhat - Development environment for Ethereum smart contracts.
-IPFS - Decentralized storage for portfolio data.
-Web3.js - JavaScript library for interacting with Ethereum.
-Metamask - Cryptocurrency Wallet
