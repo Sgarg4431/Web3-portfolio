@@ -10,7 +10,7 @@ Decentralize Portfolio is a decentralized application (DApp) built on the Ethere
 - Decentralized Storage: The portfolio data is stored on the Ethereum blockchain, ensuring data integrity, immutability, and resistance to censorship.
 - Metamask Integration: Users can connect their Ethereum wallets using Metamask to interact with the DApp on desktop as well as mobile.
 # Installation
-## For Final Project
+
 ### To run the Decentralize Portfolio final project locally, follow these steps:
 
 1. Clone the repository:
